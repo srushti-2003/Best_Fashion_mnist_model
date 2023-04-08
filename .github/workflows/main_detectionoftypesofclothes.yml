@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Detectionoftypesofclothes'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E14830BC3972419FB6C1380EFF5BBECA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_303E523B8B6D45C99F7FB0DA4D5CBCA9 }}
